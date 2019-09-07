@@ -6,4 +6,7 @@ Some configurations were modified for the production environnment of wide-camp-1
 Please refer to [master](https://github.com/wide-camp-1909/deadman/tree/master) branch and check the details.
 
 ## Getting Started
-TBD
+
+```
+% ./deadman ./deadman.conf
+```
